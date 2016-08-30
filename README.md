@@ -1,2 +1,2 @@
 # hello-world
-this is my new repository
+this is my new branch which is different from master branch
